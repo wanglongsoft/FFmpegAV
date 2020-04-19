@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FFmpegAV</string>
+    <string name="audio_extract">音频抽离</string>
+    <string name="video_extract">视频抽离</string>
+    <string name="format_conversation">Mp4转Flv</string>
+    <string name="av_clip">音视频裁剪</string>
+    <string name="av_merge">音视频合并</string>
+    <string name="audio_encode">音频编码</string>
+    <string name="video_encode">视频编码</string>
+    <string name="av_to_img">音视频转图片</string>
+    <string name="audio_decode">音频解码</string>
+    <string name="video_decode">视频解码</string>
+</resources>
